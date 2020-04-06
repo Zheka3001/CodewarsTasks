@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\bin\Debug\CodeWars_Tasks.dll
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\bin\Debug\CodeWars_Tasks.pdb
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\obj\Debug\CodeWars_Tasks.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\obj\Debug\CodeWars_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\obj\Debug\CodeWars_Tasks.dll
+C:\Users\Lenovo\source\repos\CodeWars_Tasks\CodeWars_Tasks\obj\Debug\CodeWars_Tasks.pdb
